@@ -1,0 +1,34 @@
+﻿Map your keyboard 's main four rows (10 X 4)
+(Put "default" before the line to use it as default)
+
+BE
+&é"'(§è!çà
+azertyuiop
+qsdfghjklm
+wxcvbn,;:=
+
+default
+FR
+&é"'(-è_çà
+azertyuiop
+qsdfghjklm
+wxcvbn,;:!
+
+AM
+1234567890
+qwertyuiop
+asdfghjkl;
+zxcvbnm,./
+
+shifter
+>
+mover
+<
+color
+\
+speed
++
+enter
+[
+leave
+]
